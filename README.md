@@ -1,4 +1,4 @@
-# Tarea Práctica - Semana 15: Colecciones de datos en Python
+# TIENDA HERNY
 **Nombre:** Paguay Hidalgo John Henry  
 **Asignatura:** Fundamentos de programación "F"
 
