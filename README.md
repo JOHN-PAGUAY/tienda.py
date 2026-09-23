@@ -1,6 +1,6 @@
 # Tarea Práctica - Semana 15: Colecciones de datos en Python
-Nombre: Paguay Hidalgo John Henry
-Asignatura: Fundamentos de programación "F"
+**Nombre:** Paguay Hidalgo John Henry  
+**Asignatura:** Fundamentos de programación "F"
 
 ## 📌 Descripción del Proyecto
 Este repositorio contiene un programa desarrollado en Python para la asignatura de **Fundamentos de Programación** de la Universidad Estatal Amazónica. El proyecto resuelve un problema sencillo de la vida real aplicando el uso de colecciones de datos (**listas**) para gestionar un inventario básico de productos en una tienda.
